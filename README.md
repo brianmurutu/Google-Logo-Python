@@ -1,12 +1,11 @@
 # Google-Logo-Python
 Google Logo Using Python...🚀
 
-![Page Screenshot](https://github.com/brianmurutu/login-form/blob/main/Screenshot%202023-10-17%20at%2020-41-20%20Animated%20Login%20From.png)
-
 ## Live Demo
 
-**Watch Video** - *Created by Me* &nbsp; [![Watch Video](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/watchVideo.svg)](https://right-pelican.static.domains/login-form-1)
- 
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://github.com/brianmurutu/Google-Logo-Python/raw/main/livedemo.mp4)
+
 
 ## Contact
 
